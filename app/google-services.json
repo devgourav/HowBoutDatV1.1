@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "947153211141",
+    "firebase_url": "https://howboutdat-a937b.firebaseio.com",
+    "project_id": "howboutdat-a937b",
+    "storage_bucket": "howboutdat-a937b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947153211141:android:68cfa2787cd659e7",
+        "android_client_info": {
+          "package_name": "com.beeblebroxlabs.howboutdat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947153211141-hte5gh8e8lscbi4p2ie1n1gpq3aso1u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzKbAiO1pfRe8EOrE_fjfA_G9o6ns0uNc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
